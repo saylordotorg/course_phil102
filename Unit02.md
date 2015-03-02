@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL102: Logic and Critical Thinking"
+course_description: "An examination of how to think effectively by investigating critical modes of thinking such as formal and informal logic, meaning analysis, verbal argument analysis, visual and statistical reasoning, scientific methodology, strategic and creative thinking, and applied critical thinking."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Argument Analysis** <span id="2"></span> 
 *Arguments are the fundamental components of all rational discourse.
  Nearly everything we read and write—scientific reports, newspaper

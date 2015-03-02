@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL102: Logic and Critical Thinking"
+course_description: "An examination of how to think effectively by investigating critical modes of thinking such as formal and informal logic, meaning analysis, verbal argument analysis, visual and statistical reasoning, scientific methodology, strategic and creative thinking, and applied critical thinking."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Strategic Reasoning and Creativity** <span id="7"></span> 
 *While the majority of this course has focused on the types of reasoning
 that are necessary to critique and evaluate existing knowledge, or to

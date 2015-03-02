@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL102: Logic and Critical Thinking"
+course_description: "An examination of how to think effectively by investigating critical modes of thinking such as formal and informal logic, meaning analysis, verbal argument analysis, visual and statistical reasoning, scientific methodology, strategic and creative thinking, and applied critical thinking."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Scientific Reasoning** <span id="6"></span> 
 *Unlike the syllogistic arguments we discussed in the last unit, which
 are a form of deductive argument, scientific reasoning is empirical.

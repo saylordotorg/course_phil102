@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL102: Logic and Critical Thinking"
+course_description: "An examination of how to think effectively by investigating critical modes of thinking such as formal and informal logic, meaning analysis, verbal argument analysis, visual and statistical reasoning, scientific methodology, strategic and creative thinking, and applied critical thinking."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Fallacies** <span id="3"></span> 
 *Now that we have an understanding of the structure that good arguments
 need to have and can represent their structure visually, we might think

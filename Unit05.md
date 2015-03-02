@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL102: Logic and Critical Thinking"
+course_description: "An examination of how to think effectively by investigating critical modes of thinking such as formal and informal logic, meaning analysis, verbal argument analysis, visual and statistical reasoning, scientific methodology, strategic and creative thinking, and applied critical thinking."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Venn Diagrams** <span id="5"></span> 
 *In addition to using predicate logic, the limitations of sentential
 logic can also be overcome by using Venn diagrams to illustrate

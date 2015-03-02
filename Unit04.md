@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL102: Logic and Critical Thinking"
+course_description: "An examination of how to think effectively by investigating critical modes of thinking such as formal and informal logic, meaning analysis, verbal argument analysis, visual and statistical reasoning, scientific methodology, strategic and creative thinking, and applied critical thinking."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Basic Sentential Logic** <span id="4"></span> 
 *This unit introduces a topic that many students find intimidating:
 formal logic.  Although it sounds difficult and complicated, formal or
