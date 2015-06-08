@@ -113,11 +113,11 @@ etc.
     
 **Table of Contents:** You can find the course's units at the links below.
 
-- [Unit 1](https://legacy.saylor.org/phil101/Unit01/)
-- [Unit 2](https://legacy.saylor.org/phil101/Unit02/)
-- [Unit 3](https://legacy.saylor.org/phil101/Unit03/)
-- [Unit 4](https://legacy.saylor.org/phil101/Unit04/)
-- [Unit 5](https://legacy.saylor.org/phil101/Unit05/)
-- [Unit 6](https://legacy.saylor.org/phil101/Unit06/)
-- [Unit 7](https://legacy.saylor.org/phil101/Unit07/)
-- [Unit 8](https://legacy.saylor.org/phil101/Unit08/)
+- [Unit 1](https://legacy.saylor.org/phil102/Unit01/)
+- [Unit 2](https://legacy.saylor.org/phil102/Unit02/)
+- [Unit 3](https://legacy.saylor.org/phil102/Unit03/)
+- [Unit 4](https://legacy.saylor.org/phil102/Unit04/)
+- [Unit 5](https://legacy.saylor.org/phil102/Unit05/)
+- [Unit 6](https://legacy.saylor.org/phil102/Unit06/)
+- [Unit 7](https://legacy.saylor.org/phil102/Unit07/)
+- [Unit 8](https://legacy.saylor.org/phil102/Unit08/)
