@@ -124,3 +124,4 @@ etc.
 - [Unit 6](https://legacy.saylor.org/phil102/Unit06/)
 - [Unit 7](https://legacy.saylor.org/phil102/Unit07/)
 - [Unit 8](https://legacy.saylor.org/phil102/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PHIL/PHIL102/PHIL102-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PHIL/PHIL102/PHIL102-FinalExam-Answers.html)
