@@ -234,7 +234,7 @@ Upon successful completion of this unit, you will be able to:
      Instructions: Complete this multiple choice quiz, which will help
     you identify common fallacies. Then, check your answers against the
     [“Tutorial F07 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/PHIL102-Subunit3.2.4-TutorialF07AnswerKey-FINAL.pdf) (PDF).  
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/PHIL102-Subunit3.2.4-TutorialF07AnswerKey-FINAL.pdf) (PDF).  
         
      Completing this assessment should take approximately 1 hour.  
       

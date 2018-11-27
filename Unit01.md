@@ -191,11 +191,11 @@ id="1.1.3"></span> 
     enhance your critical thinking skills and your understanding of
     meaning. After you have completed these exercises, check your
     responses against the following: [“Tutorial M01 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/01/PHIL102-Subunit1.2.1-TutorialMA01AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/PHIL102-Subunit1.2.1-TutorialMA01AnswerKey-FINAL.pdf)
     (PDF), [“Tutorial M04 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/01/PHIL102-Subunit1.2.1-TutorialMA04AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/PHIL102-Subunit1.2.1-TutorialMA04AnswerKey-FINAL.pdf)
     (PDF), and [“Tutorial M05 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/01/PHIL102-Subunit1.2.1-TutorialMA05AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/PHIL102-Subunit1.2.1-TutorialMA05AnswerKey-FINAL.pdf)
     (PDF).  
         
      Reading these tutorials and completing the exercises should take
@@ -258,7 +258,7 @@ id="1.1.3"></span> 
         
      Complete the exercises for this tutorial. Then, check your
     responses against the [“Tutorial M06 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/01/PHIL102-Subunit1.2.2-TutorialMA06AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/PHIL102-Subunit1.2.2-TutorialMA06AnswerKey-FINAL.pdf)
     (PDF).  
       
      Reading this tutorial and completing the exercises should take
@@ -289,9 +289,9 @@ id="1.2.3"></span> 
      Complete the exercises in Tutorials M08 and M09 to enhance your
     understanding of the material. Then, check your responses against
     the [“Tutorial M08 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/01/PHIL102-Subunit1.2.3-TutorialMA08AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/PHIL102-Subunit1.2.3-TutorialMA08AnswerKey-FINAL.pdf)
     (PDF) and [“Tutorial M09 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/01/PHIL102-Subunit1.2.3-TutorialMA09AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/PHIL102-Subunit1.2.3-TutorialMA09AnswerKey-FINAL.pdf)
     (PDF).  
         
      Reading these tutorials, completing the exercises, and taking notes
