@@ -68,7 +68,7 @@ id="5.1.1"></span> 
      Instructions: Read the tutorial, practice using the flash
     animations, and complete all of the exercises on the page. Once you
     have answered each question, check the [“Tutorial V03 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/PHIL102-Subunit5.1.2-TutorialV03-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/PHIL102-Subunit5.1.2-TutorialV03-FINAL.pdf)
     (PDF).  
       
      Working with Venn diagrams that involve three circles is almost
@@ -100,7 +100,7 @@ id="5.1.3"></span> 
         
      Complete the exercises for the tutorial. Then, check your answers
     against the [“Tutorial V04 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/PHIL102-Subunit5.1.3-TutorialV04-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/PHIL102-Subunit5.1.3-TutorialV04-FINAL.pdf)
     (PDF).  
         
      Reading this tutorial and completing the exercises should take
@@ -196,7 +196,7 @@ id="5.2.2"></span> 
         
      Complete the exercises for this tutorial. Then, check your answers
     against the [“Tutorial V08 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/PHIL102-Subunit5.2.3-TutorialV08-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/PHIL102-Subunit5.2.3-TutorialV08-FINAL.pdf)
     (PDF).  
         
      Reading this tutorial and completing the exercises should take

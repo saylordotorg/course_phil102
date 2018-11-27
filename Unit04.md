@@ -124,7 +124,7 @@ Upon successful completion of this unit, you will be able to:
         
      Complete the exercises for this tutorial. Then, check your answers
     against the [“Tutorial L01 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/PHIL102-Subunit4.1.1-TutorialL01AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/PHIL102-Subunit4.1.1-TutorialL01AnswerKey-FINAL.pdf)
     (PDF).  
         
      Reading this tutorial and completing the exercises should take
@@ -154,9 +154,9 @@ id="4.1.2"></span> 
         
      Complete the exercises for each tutorial. Then, check your answers
     against the following: [“Tutorial L02 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/PHIL102-Subunit4.1.2-TutorialL02AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/PHIL102-Subunit4.1.2-TutorialL02AnswerKey-FINAL.pdf)
     (PDF) and [“Tutorial L03 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/PHIL102-Subunit4.1.2-TutorialL03AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/PHIL102-Subunit4.1.2-TutorialL03AnswerKey-FINAL.pdf)
     (PDF).  
       
      Reading these tutorials and completing the exercises should take
@@ -181,7 +181,7 @@ id="4.1.2"></span> 
     as well as one exceptionally difficult one. For tutorial L05,
     complete puzzles 1–3, and then, check your answers against the
     [“Tutorial L05 Answer
-    Key.”](http://www.saylor.org/site/wp-content/uploads/2014/02/PHIL102-Subunit4.1.3-TutorialL05AnswerKey-FINAL.pdf)
+    Key.”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/PHIL102-Subunit4.1.3-TutorialL05AnswerKey-FINAL.pdf)
     Optionally, you can explore the Knights and Knaves questions, though
     note that there are no answers provided. For the answer to the
     challenging puzzle in the L06 tutorial, follow the embedded link to
@@ -201,13 +201,13 @@ id="4.1.2"></span> 
     Equivalence”**
     Link: University of Hong Kong’s Critical Thinking Web: Joe Lau and
     Jonathan Chan’s *Critical Thinking Exercises*: [“Logical
-    Equivalence”](http://www.saylor.org/site/wp-content/uploads/2014/02/PHIL102-4.1.4-LogicalEquivalence.pdf)
+    Equivalence”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/PHIL102-4.1.4-LogicalEquivalence.pdf)
     (PDF)  
       
      Instructions: Complete this exercise, which will give you an
     opportunity to better understand logical equivalence. Check your
     answers against the [“Review of Logic Basics Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/PHIL102-Subunit4.1.4-ReviewofLogicBasicsAnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/PHIL102-Subunit4.1.4-ReviewofLogicBasicsAnswerKey-FINAL.pdf)
     (PDF).  
         
      Completing this assessment should take approximately 30 minutes.  
@@ -237,7 +237,7 @@ id="4.1.2"></span> 
         
      Complete the exercises for tutorial SL02. Then, check your answers
     against the [“Tutorial SL02 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/PHIL102-Subunit4.2.1-TutorialSL02-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/PHIL102-Subunit4.2.1-TutorialSL02-FINAL.pdf)
     (PDF).   
         
      Reading these tutorials and completing the exercises should take
@@ -424,9 +424,9 @@ id="4.2.8"></span> 
      Complete the exercises for both tutorials. It may also help to copy
     them down with pencil and paper. Check your answers against the
     [“Tutorial SL07 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/PHIL102-Subunit4.2.8-TutorialSL07-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/PHIL102-Subunit4.2.8-TutorialSL07-FINAL.pdf)
     (PDF) and [“Tutorial SL08 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/PHIL102-Subunit4.2.8-TutorialSL08-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/PHIL102-Subunit4.2.8-TutorialSL08-FINAL.pdf)
     (PDF).  
         
      Reading these tutorials and completing the exercises should take
@@ -453,7 +453,7 @@ id="4.2.8"></span> 
         
      Complete the exercises for this tutorial. Then, check your answers
     against the [“Tutorial SL10 Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/02/PHIL102-Subunit4.2.9-TutorialSL010-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/PHIL102-Subunit4.2.9-TutorialSL010-FINAL.pdf)
     (PDF).  
          
      Reading this tutorial and completing the exercises should take
