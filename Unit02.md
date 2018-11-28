@@ -109,9 +109,9 @@ id="2.1.2"></span> 
         
      Complete the exercises for each tutorial. Then, check your answers
     against the [“Tutorial A01 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/PHIL102-Subunit2.1.2-TutorialA01AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/PHIL102-Subunit2.1.2-TutorialA01AnswerKey-FINAL.pdf)
     (PDF) and [“Tutorial A02 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/PHIL102-Subunit2.1.2-TutorialA02AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/PHIL102-Subunit2.1.2-TutorialA02AnswerKey-FINAL.pdf)
     (PDF).  
         
      Reading these tutorials and completing the exercises should take
@@ -141,11 +141,11 @@ id="2.1.2"></span> 
         
      Complete the exercises for each tutorial. Then, check your answers
     against the following: [“Tutorial A03 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/PHIL102-Subunit2.2.1-TutorialA03AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/PHIL102-Subunit2.2.1-TutorialA03AnswerKey-FINAL.pdf)
     (PDF),[“Tutorial A04 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/PHIL102-Subunit2.2.1-TutorialA04AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/PHIL102-Subunit2.2.1-TutorialA04AnswerKey-FINAL.pdf)
     (PDF), and [“Tutorial A05 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/PHIL102-Subunit2.2.1-TutorialA05AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/PHIL102-Subunit2.2.1-TutorialA05AnswerKey-FINAL.pdf)
     (PDF).  
         
      Reading these tutorials and completing the exercises should take
@@ -161,7 +161,7 @@ id="2.1.2"></span> 
     Logic Quiz: Truth, Validity, and Soundness”**
     Link: Lander University: Lee C. Archie’s [“Introduction to Logic
     Quiz: Truth, Validity, and
-    Soundness”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL102-2.2.1-Assessment.pdf) (PDF)  
+    Soundness”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/PHIL102-2.2.1-Assessment.pdf) (PDF)  
         
      Also available in:  
      [HTML](http://philosophy.lander.edu/logic/tvs_quiz.html)  
@@ -176,7 +176,7 @@ id="2.1.2"></span> 
     whether you got the answer correct or not, as well as an explanation
     why. You may also check your answers against the [“Quiz: Truth,
     Validity and Soundness Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL102-2.2.1-Assessment-Answer-Key.pdf) (PDF).  
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/PHIL102-2.2.1-Assessment-Answer-Key.pdf) (PDF).  
       
      Completing this assessment should take approximately 30 minutes.  
       
@@ -205,9 +205,9 @@ id="2.1.2"></span> 
         
      Complete the exercises for Tutorial A06 and Tutorial A08. Then,
     check your answers against the [“Tutorial A06 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/PHIL102-Subunit2.2.2-TutorialA06AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/PHIL102-Subunit2.2.2-TutorialA06AnswerKey-FINAL.pdf)
     (PDF) and [“Tutorial A08 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/PHIL102-Subunit2.2.2-TutorialA08AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/PHIL102-Subunit2.2.2-TutorialA08AnswerKey-FINAL.pdf)
     (PDF).  
         
      Reading these tutorials and completing the exercises should take
@@ -249,7 +249,7 @@ id="2.1.2"></span> 
         
      Complete the exercises for this tutorial. Then, check your answers
     against the [“Tutorial A09 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/PHIL102-Subunit2.3-TutorialA09AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/PHIL102-Subunit2.3-TutorialA09AnswerKey-FINAL.pdf)
     (PDF).  
         
      Reading this tutorial and completing the exercises should take
@@ -277,7 +277,7 @@ id="2.1.2"></span> 
         
      Complete the exercises for this tutorial. Then, check your answers
     against the [“Tutorial A10 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/PHIL102-Subunit2.4-TutorialA10AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/PHIL102-Subunit2.4-TutorialA10AnswerKey-FINAL.pdf)
     (PDF).  
         
      Reading this tutorial and completing the exercises should take
