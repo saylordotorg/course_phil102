@@ -60,7 +60,7 @@ id="7.1.1"></span> 
         
      Complete the exercises for this tutorial. Then, check your answers
     against the [“Tutorial G01 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/02/PHIL102-Subunit7.1.1-TutorialG01.4AnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/02/PHIL102-Subunit7.1.1-TutorialG01.4AnswerKey-FINAL.pdf)
     (PDF).  
          
      Reading this tutorial and completing the exercises should take
